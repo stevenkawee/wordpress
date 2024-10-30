@@ -1,0 +1,5 @@
+# depedencies
+/wp-content/plugins
+
+# configuration
+wp-config.php
